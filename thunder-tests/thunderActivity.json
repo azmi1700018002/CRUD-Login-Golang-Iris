@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "6a2fdca9-4f78-4a37-b016-128a2f6a2bfc",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/users",
+    "url": "http://localhost:8080/users",
+    "method": "GET",
+    "sortNum": 0,
+    "created": "2023-06-23T03:41:47.208Z",
+    "modified": "2023-06-23T03:42:52.744Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\" : \"Azmi Badhi uz Zaman\",\n  \"age\" : 25\n}",
+      "form": []
+    },
+    "tests": []
+  },
+  {
+    "_id": "979449de-f52b-4604-8771-3dcf3f4fbf39",
+    "colId": "history",
+    "containerId": "",
+    "name": "http://localhost:8080/users",
+    "url": "http://localhost:8080/users",
+    "method": "POST",
+    "sortNum": 0,
+    "created": "2023-06-23T03:42:57.726Z",
+    "modified": "2023-06-23T03:42:57.726Z",
+    "headers": [],
+    "params": [],
+    "body": {
+      "type": "json",
+      "raw": "{\n  \"name\" : \"Azmi Badhi uz Zaman\",\n  \"age\" : 25\n}",
+      "form": []
+    },
+    "tests": []
+  }
+]
